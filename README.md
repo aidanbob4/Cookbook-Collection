@@ -8,4 +8,5 @@ Allows you to randomly select a recipe from that category, with the option of in
 
 VERSION UPDATES:
 1.0 Initial Release!
+
 1.1 Bug fixed a crash where if you tried randomizing a category after adding recipes it would create an error.
