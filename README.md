@@ -7,6 +7,9 @@ Categories:
 Allows you to randomly select a recipe from that category, with the option of including the recipes you've already made or trying a brand new recipe!
 
 VERSION UPDATES:
+
 1.0 Initial Release!
 
 1.1 Bug fixed a crash where if you tried randomizing a category after adding recipes it would create an error.
+
+1.11 Fixed recipe name changing to actually allow you to change the name. Added recipe deletion.
