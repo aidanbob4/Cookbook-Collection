@@ -29,3 +29,6 @@ VERSION UPDATES:
 - Now are able to flag multiple recipes in a category at once
 - Can view all flag recipes in a cook book
 - Can randomly select a recipe from the flag menu
+
+1.21:
+- Updated recipe adding to not crash because of flagged not being included
